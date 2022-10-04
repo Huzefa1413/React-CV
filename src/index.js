@@ -9,7 +9,7 @@ function Hi() {
         <div className="right">
           <h1>Huzefa Mustafa</h1>
           <h3>Web Developer</h3>
-          <h3>A-90, Block G | N.Naz | Karachi | 03357224192</h3>
+          <h3>A-90, Block G | North Nazimabad | Karachi | 03357224192</h3>
           <h3>huzefamustafa1413@gmail.com</h3>
           <p>
             An eloquent and dedicated web developer seeking to use excellent web
